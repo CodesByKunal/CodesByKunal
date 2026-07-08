@@ -11,9 +11,9 @@
   
 + 🌩️ Ask me about **JavaScript, C++, Python, System Design, React Js, Node Js, Express Js, MongoDB and more...**
   
-+ 📫 You can reach me at **kunal8055@outlook.in**
++ 📫 You can reach me at **codesbykunal@gmail.com**
   
-+ 📄 Know about my experiences [here](https://docs.google.com/document/d/1fdY7zZ2CkD_FJXzuqBc_B3Nxxo2osILyfx_kZ2npcMA/edit?usp=sharing)
++ 📄 Know about my experiences [here](https://drive.google.com/file/d/1HQZHqru7WWULKL6p0NynqK03x281Rp_d/view?usp=drive_link)
   
 ## Connect with me
 |`Linkedin`|`LeetCode`|`Codeforce`|
